@@ -5,7 +5,7 @@
 [![Stars](https://img.shields.io/github/stars/beargruug/awesome-coffee?style=social)](https://github.com/beargruug/awesome-coffee/stargazers)
 [![Forks](https://img.shields.io/github/forks/beargruug/awesome-coffee?style=social)](https://github.com/beargruug/awesome-coffee/network/members)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md)
-[![License](https://img.shields.io/github/license/your-username/awesome-coffee)](LICENSE)
+[![License](https://img.shields.io/github/license/beargruug/awesome-coffee)](LICENSE)
 
 ---
 
