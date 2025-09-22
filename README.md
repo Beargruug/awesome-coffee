@@ -16,7 +16,6 @@
 - [Art & Culture](#art--culture)
 - [Sustainability](#sustainability)
 - [Recommended Coffee](#recommended-coffee)
-- [Acknowledgements](#acknowledgements)
 
 ## Introduction
 
@@ -103,12 +102,6 @@ Have a favorite bean, blend, or roaster? [Contribute yours!](CONTRIBUTING.md)
 | [La Cabra Coffee](https://www.lacabra.dk/) | La Cabra | Denmark (various origins) | Bright, modern, seasonal |
 | [Stumptown Hair Bender](https://www.stumptowncoffee.com/products/hair-bender) | Stumptown | Blend | Chocolate, cherry, toffee |
 | [La Paz](https://www.blackhen.de/products/bio-espresso-la-paz) | Black Hen | Honduras | Nougat, cacao |
-
----
-
-## Acknowledgements
-
-Inspired by [sindresorhus/awesome](https://github.com/sindresorhus/awesome) and all the amazing contributors to the awesome movement.
 
 ---
 
