@@ -1,7 +1,4 @@
-# Awesome Coffee
-  <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <a href="https://github.com/beargruug/awesome-coffee/graphs/contributors"><img src="https://img.shields.io/github/contributors/beargruug/awesome-coffee" alt="GitHub contributors" /></a>
-  <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat" alt="PRs welcome" /></a>
+# Awesome Coffee [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) <a href="https://github.com/beargruug/awesome-coffee/graphs/contributors"><img src="https://img.shields.io/github/contributors/beargruug/awesome-coffee" alt="GitHub contributors" /></a> <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat" alt="PRs welcome" /></a>
   <blockquote>☕️ A curated list of awesome coffee resources, tools, guides, and more.</blockquote>
 
 
@@ -19,8 +16,6 @@
 - [Art & Culture](#art--culture)
 - [Sustainability](#sustainability)
 - [Recommended Coffee](#recommended-coffee)
-- [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgements](#acknowledgements)
 
 ## Introduction
