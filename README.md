@@ -38,6 +38,13 @@ This list gathers the best resources, guides, and projects for coffee lovers, ho
 
 ---
 
+## News
+
+- [James Hoffmann’s YouTube Channel](https://www.youtube.com/@jameshoffmann) - One of the most popular coffee YouTubers with excellent tutorials and reviews.
+- [Perfect Daily Grind](https://perfectdailygrind.com/) - Articles and guides on all things coffee.
+
+---
+
 ## Coffee Science & Knowledge
 
 - [Coffee Chemistry](https://www.coffeechemistry.com/) - Science behind coffee, from bean to cup.
@@ -48,13 +55,6 @@ This list gathers the best resources, guides, and projects for coffee lovers, ho
 ## Brewing Methods
 
 - [Brew Methods](https://brewmethods.com/) - Overview of different brewing methods and recipes.
-
----
-
-## News
-
-- [James Hoffmann’s YouTube Channel](https://www.youtube.com/@jameshoffmann) - One of the most popular coffee YouTubers with excellent tutorials and reviews.
-- [Perfect Daily Grind](https://perfectdailygrind.com/) - Articles and guides on all things coffee.
 
 ---
 
