@@ -126,23 +126,6 @@ Have a favorite bean, blend, or roaster? [Contribute yours!](CONTRIBUTING.md)
 **[⬆ back to top](#contents)**
 ---
 
-## Contributing
-
-Contributions are welcome!
-Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a pull request.
-
-1. Fork this repo
-2. Add your resource in the appropriate section
-3. Open a pull request
-
----
-
-## License
-
-[MIT](LICENSE)
-
----
-
 ## Acknowledgements
 
 Inspired by [sindresorhus/awesome](https://github.com/sindresorhus/awesome) and all the amazing contributors to the awesome movement.
