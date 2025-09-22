@@ -34,68 +34,68 @@ This list gathers the best resources, guides, and projects for coffee lovers, ho
 
 ## SSH
 
-- [Terminal Products, Inc.](https://www.terminal.shop/) – Order your coffee inside your terminal.
+- [Terminal Products, Inc.](https://www.terminal.shop/) - Order your coffee inside your terminal.
 
 ---
 
 ## Coffee Science & Knowledge
 
-- [Coffee Chemistry](https://www.coffeechemistry.com/) – Science behind coffee, from bean to cup.
-- [Specialty Coffee Association](https://sca.coffee/) – Research, standards, and education for specialty coffee.
+- [Coffee Chemistry](https://www.coffeechemistry.com/) - Science behind coffee, from bean to cup.
+- [Specialty Coffee Association](https://sca.coffee/) - Research, standards, and education for specialty coffee.
 
 ---
 
 ## Brewing Methods
 
-- [Brew Methods](https://brewmethods.com/) – Overview of different brewing methods and recipes.
+- [Brew Methods](https://brewmethods.com/) - Overview of different brewing methods and recipes.
 
 ---
 
 ## News
 
-- [James Hoffmann’s YouTube Channel](https://www.youtube.com/@jameshoffmann) – One of the most popular coffee YouTubers with excellent tutorials and reviews.
-- [Perfect Daily Grind](https://perfectdailygrind.com/) – Articles and guides on all things coffee.
+- [James Hoffmann’s YouTube Channel](https://www.youtube.com/@jameshoffmann) - One of the most popular coffee YouTubers with excellent tutorials and reviews.
+- [Perfect Daily Grind](https://perfectdailygrind.com/) - Articles and guides on all things coffee.
 
 ---
 
 ## Machines & Tools
 
-- [Home-Barista](https://www.home-barista.com/) – Reviews and guides for espresso machines and grinders.
-- [CoffeeGeek](https://www.coffeegeek.com/) – Community reviews and discussions on coffee equipment.
+- [Home-Barista](https://www.home-barista.com/) - Reviews and guides for espresso machines and grinders.
+- [CoffeeGeek](https://www.coffeegeek.com/) - Community reviews and discussions on coffee equipment.
 
 ---
 
 ## Recipes
 
-- [Dalgona Coffee Recipe](https://www.bbcgoodfood.com/recipes/dalgona-coffee) – The viral whipped coffee.
+- [Dalgona Coffee Recipe](https://www.bbcgoodfood.com/recipes/dalgona-coffee) - The viral whipped coffee.
 
 ---
 
 ## Communities & Blogs
 
-- [r/Coffee (Reddit)](https://www.reddit.com/r/Coffee/) – Large, active coffee community.
-- [Barista Hustle](https://www.baristahustle.com/blog/) – Blog and courses for coffee professionals.
-- [Coffee Forums UK](https://coffeeforums.co.uk/) – UK-based coffee community.
+- [r/Coffee (Reddit)](https://www.reddit.com/r/Coffee/) - Large, active coffee community.
+- [Barista Hustle](https://www.baristahustle.com/blog/) - Blog and courses for coffee professionals.
+- [Coffee Forums UK](https://coffeeforums.co.uk/) - UK-based coffee community.
 
 ---
 
 ## Open Source Projects
 
-- [CoffeeScript](https://coffeescript.org/) – Okay, not about coffee, but a fun programming language with a coffee theme!
-- [Beanconqueror](https://beanconqueror.com/) – Open source app for tracking beans, brews, and equipment.
+- [CoffeeScript](https://coffeescript.org/) - Okay, not about coffee, but a fun programming language with a coffee theme!
+- [Beanconqueror](https://beanconqueror.com/) - Open source app for tracking beans, brews, and equipment.
 
 ---
 
 ## Art & Culture
 
-- [Coffee Quotes](https://www.goodreads.com/quotes/tag/coffee) – Famous quotes about coffee.
+- [Coffee Quotes](https://www.goodreads.com/quotes/tag/coffee) - Famous quotes about coffee.
 
 ---
 
 ## Sustainability
 
-- [Fairtrade Coffee](https://www.fairtrade.net/issue/coffee) – Information on fairtrade coffee and ethical sourcing.
-- [Sustainable Coffee Challenge](https://www.sustaincoffee.org/) – Global effort to make coffee the world’s first sustainable agricultural product.
+- [Fairtrade Coffee](https://www.fairtrade.net/issue/coffee) - Information on fairtrade coffee and ethical sourcing.
+- [Sustainable Coffee Challenge](https://www.sustaincoffee.org/) - Global effort to make coffee the world’s first sustainable agricultural product.
 
 ---
 
