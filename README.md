@@ -11,7 +11,7 @@
 
 - [Introduction](#introduction)
 - [SSH](#ssh)
-- [NEWS](#news)
+- [News](#news)
 - [Coffee Science & Knowledge](#coffee-science--knowledge)
 - [Brewing Methods](#brewing-methods)
 - [Machines & Tools](#machines--tools)
