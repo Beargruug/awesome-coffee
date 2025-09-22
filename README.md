@@ -1,6 +1,10 @@
-# Awesome Coffee [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) <a href="https://github.com/beargruug/awesome-coffee/graphs/contributors"><img src="https://img.shields.io/github/contributors/beargruug/awesome-coffee" alt="GitHub contributors" /></a> <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat" alt="PRs welcome" /></a>
-  <blockquote>☕️ A curated list of awesome coffee resources, tools, guides, and more.</blockquote>
+# Awesome Coffee [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
+> ☕️ A curated list of awesome coffee resources, tools, guides, and more.
+
+The goal is to provide coffee lovers, baristas, and curious minds with a comprehensive overview of the best content and developments in the world of coffee.
+
+Contributions welcome! Add links through pull requests or create an issue to start a discussion.
 
 ## Contents
 
@@ -20,7 +24,7 @@
 ## Introduction
 
 Welcome to **Awesome Coffee**!
-This list gathers the best resources, guides, and projects for coffee lovers, home baristas, and professionals. Whether you’re just starting your coffee journey or you’re a seasoned pro, you’ll find something inspiring here.
+This list gathers the best resources, guides, and projects for coffee lovers, home baristas, and professionals. Whether you're just starting your coffee journey or you're a seasoned pro, you'll find something inspiring here.
 
 ---
 
@@ -32,7 +36,7 @@ This list gathers the best resources, guides, and projects for coffee lovers, ho
 
 ## News
 
-- [James Hoffmann’s YouTube Channel](https://www.youtube.com/@jameshoffmann) - One of the most popular coffee YouTubers with excellent tutorials and reviews.
+- [James Hoffmann's YouTube Channel](https://www.youtube.com/@jameshoffmann) - One of the most popular coffee YouTubers with excellent tutorials and reviews.
 - [Perfect Daily Grind](https://perfectdailygrind.com/) - Articles and guides on all things coffee.
 
 ---
@@ -87,7 +91,7 @@ This list gathers the best resources, guides, and projects for coffee lovers, ho
 ## Sustainability
 
 - [Fairtrade Coffee](https://www.fairtrade.net/issue/coffee) - Information on fairtrade coffee and ethical sourcing.
-- [Sustainable Coffee Challenge](https://www.sustaincoffee.org/) - Global effort to make coffee the world’s first sustainable agricultural product.
+- [Sustainable Coffee Challenge](https://www.sustaincoffee.org/) - Global effort to make coffee the world's first sustainable agricultural product.
 
 ---
 
@@ -96,12 +100,12 @@ This list gathers the best resources, guides, and projects for coffee lovers, ho
 Discover some of the most beloved coffees from around the world!
 Have a favorite bean, blend, or roaster? [Contribute yours!](CONTRIBUTING.md)
 
-| Name & Link | Roaster/Brand | Origin | Notes |
-|-------------|---------------|--------|-------|
-| [Ethiopia Yirgacheffe](https://www.coffeereview.com/review/ethiopia-yirgacheffe/) | Various | Ethiopia | Floral, citrus, tea-like |
-| [La Cabra Coffee](https://www.lacabra.dk/) | La Cabra | Denmark (various origins) | Bright, modern, seasonal |
-| [Stumptown Hair Bender](https://www.stumptowncoffee.com/products/hair-bender) | Stumptown | Blend | Chocolate, cherry, toffee |
-| [La Paz](https://www.blackhen.de/products/bio-espresso-la-paz) | Black Hen | Honduras | Nougat, cacao |
+|Name & Link                                                                        |Roaster/Brand  |Origin                     |Notes                      |
+|-----------------------------------------------------------------------------------|---------------|---------------------------|---------------------------|
+|[Ethiopia Yirgacheffe](https://www.coffeereview.com/review/ethiopia-yirgacheffe/)  |Various        |Ethiopia                   |Floral, citrus, tea-like   |
+|[La Cabra Coffee](https://www.lacabra.dk/)                                         |La Cabra       |Denmark (various origins)  |Bright, modern, seasonal   |
+|[Stumptown Hair Bender](https://www.stumptowncoffee.com/products/hair-bender)      |Stumptown      |Blend                      |Chocolate, cherry, toffee  |
+|[La Paz](https://www.blackhen.de/products/bio-espresso-la-paz)                     |Black Hen      |Honduras                   |Nougat, cacao              |
 
 ---
 
