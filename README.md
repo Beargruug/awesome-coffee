@@ -1,12 +1,11 @@
-# Awesome Coffee [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
-> ☕️ A curated list of awesome coffee resources, tools, guides, and more.
-
-[![Stars](https://img.shields.io/github/stars/beargruug/awesome-coffee?style=social)](https://github.com/beargruug/awesome-coffee/stargazers)
-[![Forks](https://img.shields.io/github/forks/beargruug/awesome-coffee?style=social)](https://github.com/beargruug/awesome-coffee/network/members)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md)
-
----
+<!--lint disable awesome-heading-->
+<div align="center">
+  <h1>Awesome Coffee</h1>
+  <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
+  <a href="https://github.com/beargruug/awesome-coffee/graphs/contributors"><img src="https://img.shields.io/github/contributors/beargruug/awesome-coffee" alt="GitHub contributors" /></a>
+  <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat" alt="PRs welcome" /></a>
+  <blockquote>☕️ A curated list of awesome coffee resources, tools, guides, and more.</blockquote>
+</div>
 
 ## Contents
 
