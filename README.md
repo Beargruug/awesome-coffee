@@ -102,60 +102,73 @@ Have a favorite bean, blend, or roaster? [Contribute yours!](CONTRIBUTING.md)
 
 > “Coffees are grouped by origin for easy exploration. Blends and multi-origin favorites are listed at the end.”
 
-> The list below is structured like this: Name & Link - Roaster/Brand - Notes
+> The list below is structured like this: Name & Link - Notes
 
 ### Ethiopia
-- [Ethiopia Yirgacheffe](https://www.coffeereview.com/review/ethiopia-yirgacheffe/) - Various - floral, citrus, tea-like.
-- [Ethiopia Duromina Espresso](https://www.vervecoffee.com/products/duromina-soe?_pos=5&_fid=bd3572082&_ss=c) - Verve Coffee - ripe blood orange, juicy melon, dark chocolate.
+- [Ethiopia Yirgacheffe](https://www.coffeereview.com/review/ethiopia-yirgacheffe/) - Floral, citrus, tea-like.
+- [Ethiopia Duromina Espresso](https://www.vervecoffee.com/products/duromina-soe?_pos=5&_fid=bd3572082&_ss=c) - Ripe blood orange, juicy melon, dark chocolate.
+- [West Arsi](https://www.roastmarket.de/wildkaffee-aethiopien-west-arsi.html?s=3994&gad_source=1&gad_campaignid=21846678156&gbraid=0AAAAACpewUSc4dk3R3eoSwGX63OHXRblO) - Floral, fruits.
+- [Yirgacheffe](https://www.coffeecircle.com/de/k/yirgacheffe?number=K002-1000-001&klar_source=google&klar_cpid=20332082634&klar_adid=664557875034&gad_source=1&gad_campaignid=20332082634&gbraid=0AAAAADRwBET-sh7df-9qf-sBXdUGihDia) - Fruit, vanilla, berry.
+- [Mohamed Ali Honey](https://thebarn.de/products/mohamed-ali-honey?_pos=5&_fid=253930cc1&_ss=c) - Peach, wild honey.
 
 ### Panama
-- [Panama Geisha](https://19grams.coffee/products/panama-geisha-natural-don-pachi) - 19grams - passion fruit, apricot, bergamot.
-- [El Hortigal Estate – Panama Filter](https://19grams.coffee/products/12-hortigal-estate-panama-filter?_pos=2&_sid=1858307ca&_ss=r) - 19grams - citrus fruits, plum, and creamy white chocolate.
+- [Panama Geisha](https://19grams.coffee/products/panama-geisha-natural-don-pachi) - Passion fruit, apricot, bergamot.
+- [El Hortigal Estate – Panama Filter](https://19grams.coffee/products/12-hortigal-estate-panama-filter?_pos=2&_sid=1858307ca&_ss=r) - Citrus fruits, plum, and creamy white chocolate.
+- [Panama I — Espresso](https://www.panamakaffee.com/shop/p/panama-2-enlsd-g5yer-dp64x-xn9wp-k2d9l) - Nut, cocoa.
+- [Hacienda LA Esmeralda Gesha](https://thebarn.de/products/la-esmeralda-gesha) - Nectarine, jasmine.
 
 ### Kenya
-- [Coffee Collective Kieni](https://coffeecollective.dk/shop/kieni/) - Coffee Collective - blackcurrant, citrus, juicy.
-- [Karogoto Espresso](https://timwendelboe.no/product/karogoto-kenyan-espresso-coffee/) - Tim Wendelboe - rose hips, hibiscus & blackcurrants.
+- [Coffee Collective Kieni](https://coffeecollective.dk/shop/kieni/) - Blackcurrant, citrus, juicy.
+- [Karogoto Espresso](https://timwendelboe.no/product/karogoto-kenyan-espresso-coffee/) - Rose hips, hibiscus & blackcurrants.
+- [Kabingara AB](https://thebarn.de/products/kabingara-ab) - Currant, nougat.
 
 ### Honduras
-- [La Paz](https://www.blackhen.de/products/bio-espresso-la-paz) - Black Hen - nougat, cacao.
-- [El Urraco](https://www.squaremilecoffee.com/products/honduras-el-puente) - Square Mile - forest fruits, chocolate and hazelnut.
+- [La Paz](https://www.blackhen.de/products/bio-espresso-la-paz) - Nougat, cacao.
+- [El Urraco](https://www.squaremilecoffee.com/products/honduras-el-puente) - Forest fruits, chocolate and hazelnut.
+- [Los Chorros](https://thebarn.de/products/los-chorros?_pos=1&_fid=d784aaa1c&_ss=c) - Red apple, black tea.
 
 ### Colombia
-- [Colombia Familia Cantillo](https://www.stumptowncoffee.com/products/colombia-familia-cantillo?variant=53520016965800) - Stumptown - flora, melon, plum.
+- [Colombia Familia Cantillo](https://www.stumptowncoffee.com/products/colombia-familia-cantillo?variant=53520016965800) - Flora, melon, plum.
+- [Guava Banana](https://thebarn.de/products/guava-banana?_pos=3&_fid=bac8d6cc8&_ss=c) - Guava, mango.
+- [Finca El Faldon](https://thebarn.de/products/finca-el-faldon-caturra?_pos=2&_fid=bac8d6cc8&_ss=c) - Cherry cola, nougat.
+- [Black Condor](https://thebarn.de/products/black-condor?_pos=1&_fid=bac8d6cc8&_ss=c) - Candied orange, cacao.
 
 ### Guatemala
-- [Guatemala El Injerto](https://www.stumptowncoffee.com/products/guatemala-el-injerto-bourbon) - Stumptown - toffee, green apple, almond.
-- [Francisco Lopez](https://www.coffeecircle.com/de/k/francisco-lopez-espresso) - Coffeecircle - Almond, chocolate.
+- [Guatemala El Injerto](https://www.stumptowncoffee.com/products/guatemala-el-injerto-bourbon) - Toffee, green apple, almond.
+- [Francisco Lopez](https://www.coffeecircle.com/de/k/francisco-lopez-espresso) - Almond, chocolate.
+- [La Colina Natural](https://thebarn.de/products/la-colina-natural?_pos=2&_fid=0c64e2491&_ss=c) - Papaya. orange blossom.
 
 ### Yemen
-- [Port of Mokha](https://portofmokha.com/collections/products/products/mokha-monthly) - PortOfMokha - region’s extraordinary flavors.
+- [Port of Mokha](https://portofmokha.com/collections/products/products/mokha-monthly) - Region’s extraordinary flavors.
 
 ### Costa Rica
-- [El Encanto Geisha](https://www.intelligentsia.com/products/costa-rica-el-encanto-honey) - Intelligentsia - mandarin orange, black cherry, pear.
-- [La Obediencia](https://www.vervecoffee.com/products/la-obediencia-espresso?_pos=2&_sid=e229d7720&_ss=r) - Verve Coffee – tangerine, dark chocolate.
+- [El Encanto Geisha](https://www.intelligentsia.com/products/costa-rica-el-encanto-honey) - Mandarin orange, black cherry, pear.
+- [La Obediencia](https://www.vervecoffee.com/products/la-obediencia-espresso?_pos=2&_sid=e229d7720&_ss=r) - Tangerine, dark chocolate.
+- [Volcan Azul H1](https://thebarn.de/products/volcan-azul-h1?_pos=2&_fid=b95ef1233&_ss=c) - Papaya, grape soda.
+- [Volcan Azul](https://thebarn.de/products/volcan-azul?_pos=1&_fid=b95ef1233&_ss=c) - Dried fig, vanilla.
 
 ### Indonesia
-- [Sumatra Gayo](https://www.coffeereview.com/review/sumatra-gayo/) - Various - earthy, herbal, chocolate.
-- [Sulawesi Toraja](https://www.peets.com/products/sulawesi-kalosi) - Peet’s Coffee - cedar, dark chocolate, spice.
+- [Sumatra Gayo](https://www.coffeereview.com/review/sumatra-gayo/) - Earthy, herbal, chocolate.
+- [Sulawesi Toraja](https://www.peets.com/products/sulawesi-kalosi) - Cedar, dark chocolate, spice.
 
 ### Nicaragua
-- [Ozone Coffee](https://ozonecoffee.co.uk/products/nicaragua-limoncillo-ethiosar-honey) - OzoneCoffee - limoncillo, ethiosar, honey.
-- [Ozone Coffee](https://ozonecoffee.co.uk/products/nicaragua-limoncillo-caturra-honey) - OzoneCoffee - limoncillo, caturra, honey.
+- [Finca Limoncillo](https://ozonecoffee.co.uk/products/nicaragua-limoncillo-ethiosar-honey) - Limoncillo, ethiosar, honey.
+- [Walnut Limoncillo](https://ozonecoffee.co.uk/products/nicaragua-limoncillo-caturra-honey) - Limoncillo, caturra, honey.
 
 ### Denmark
-- [La Cabra Coffee](https://www.lacabra.dk/) - La Cabra - bright, modern, seasonal.
+- [La Cabra Coffee](https://www.lacabra.dk/) - Bright, modern, seasonal.
 
 ### Norway
-- [Norway Stockfleths](https://stockfleths.as/produkt/stockfleths-espresso-25kilo-bulk/) - Stockfleths - Chocolate, Cherry, Caramel.
+- [Norway Stockfleths](https://stockfleths.as/produkt/stockfleths-espresso-25kilo-bulk/) - Chocolate, Cherry, Caramel.
 
 
 ### Blends & Multi-Origin
-- [Stumptown Hair Bender](https://www.stumptowncoffee.com/products/hair-bender) - Stumptown - chocolate, cherry, toffee.
-- [Blue Bottle Bella Donovan](https://bluebottlecoffee.com/store/bella-donovan) - Blue Bottle - berry, chocolate, rich.
-- [Intelligentsia Black Cat Classic Espresso](https://www.intelligentsia.com/products/black-cat-classic-espresso) - Intelligentsia - sweet, syrupy, stone fruit.
-- [Square Mile Red Brick](https://shop.squaremilecoffee.com/products/red-brick-espresso) - Square Mile - fruity, chocolate, balanced.
-- [Onyx Coffee Monarch](https://onyxcoffeelab.com/products/monarch) - Onyx Coffee Lab - dark chocolate, red wine, syrupy.
-- [La Colombe Corsica](https://www.lacolombe.com/products/corsica) - La Colombe - bold, chocolate, deep.
+- [Stumptown Hair Bender](https://www.stumptowncoffee.com/products/hair-bender) - Chocolate, cherry, toffee.
+- [Blue Bottle Bella Donovan](https://bluebottlecoffee.com/store/bella-donovan) - Berry, chocolate, rich.
+- [Intelligentsia Black Cat Classic Espresso](https://www.intelligentsia.com/products/black-cat-classic-espresso) - Sweet, syrupy, stone fruit.
+- [Square Mile Red Brick](https://shop.squaremilecoffee.com/products/red-brick-espresso) - Fruity, chocolate, balanced.
+- [Onyx Coffee Monarch](https://onyxcoffeelab.com/products/monarch) - Dark chocolate, red wine, syrupy.
+- [La Colombe Corsica](https://www.lacolombe.com/products/corsica) - Bold, chocolate, deep.
 
 
 > **Fun Fact:**
