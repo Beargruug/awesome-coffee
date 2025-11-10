@@ -105,11 +105,11 @@ Have a favorite bean, blend, or roaster? [Contribute yours!](CONTRIBUTING.md)
 > The list below is structured like this: Name & Link - Notes
 
 ### Ethiopia
-- [Ethiopia Yirgacheffe](https://www.coffeereview.com/review/ethiopia-yirgacheffe/) - Floral, citrus, tea-like.
 - [Ethiopia Duromina Espresso](https://www.vervecoffee.com/products/duromina-soe?_pos=5&_fid=bd3572082&_ss=c) - Ripe blood orange, juicy melon, dark chocolate.
 - [West Arsi](https://www.roastmarket.de/wildkaffee-aethiopien-west-arsi.html?s=3994&gad_source=1&gad_campaignid=21846678156&gbraid=0AAAAACpewUSc4dk3R3eoSwGX63OHXRblO) - Floral, fruits.
 - [Yirgacheffe](https://www.coffeecircle.com/de/k/yirgacheffe?number=K002-1000-001&klar_source=google&klar_cpid=20332082634&klar_adid=664557875034&gad_source=1&gad_campaignid=20332082634&gbraid=0AAAAADRwBET-sh7df-9qf-sBXdUGihDia) - Fruit, vanilla, berry.
 - [Mohamed Ali Honey](https://thebarn.de/products/mohamed-ali-honey?_pos=5&_fid=253930cc1&_ss=c) - Peach, wild honey.
+- [Yirgacheffe](https://www.coffeecircle.com/de/k/yirgacheffe) - Complex, spicy, fruity aromas.
 
 ### Panama
 - [Panama Geisha](https://19grams.coffee/products/panama-geisha-natural-don-pachi) - Passion fruit, apricot, bergamot.
@@ -121,6 +121,7 @@ Have a favorite bean, blend, or roaster? [Contribute yours!](CONTRIBUTING.md)
 - [Coffee Collective Kieni](https://coffeecollective.dk/shop/kieni/) - Blackcurrant, citrus, juicy.
 - [Karogoto Espresso](https://timwendelboe.no/product/karogoto-kenyan-espresso-coffee/) - Rose hips, hibiscus & blackcurrants.
 - [Kabingara AB](https://thebarn.de/products/kabingara-ab) - Currant, nougat.
+- [Kenya AA](https://shop.emil-reimann.de/kaffee/spezialkaffee-kenya-aa-ganze-bohne-250g) - Powerful, spicy, fruity acidity.
 
 ### Honduras
 - [La Paz](https://www.blackhen.de/products/bio-espresso-la-paz) - Nougat, cacao.
@@ -137,19 +138,30 @@ Have a favorite bean, blend, or roaster? [Contribute yours!](CONTRIBUTING.md)
 - [Guatemala El Injerto](https://www.stumptowncoffee.com/products/guatemala-el-injerto-bourbon) - Toffee, green apple, almond.
 - [Francisco Lopez](https://www.coffeecircle.com/de/k/francisco-lopez-espresso) - Almond, chocolate.
 - [La Colina Natural](https://thebarn.de/products/la-colina-natural?_pos=2&_fid=0c64e2491&_ss=c) - Papaya. orange blossom.
+- [Antigua](https://vits.coffee/shop/kaffee/single-origins/guatemala-antigua/) - Fruity acidity, sweet plum, nougat.
 
 ### Yemen
 - [Port of Mokha](https://portofmokha.com/collections/products/products/mokha-monthly) - Region’s extraordinary flavors.
+- [Mocha Matari](https://shop.berliner-kaffeeroesterei.de/jemen-mocha-matari-1030106) - Floral, nutty, sweet, spicy.
 
 ### Costa Rica
 - [El Encanto Geisha](https://www.intelligentsia.com/products/costa-rica-el-encanto-honey) - Mandarin orange, black cherry, pear.
 - [La Obediencia](https://www.vervecoffee.com/products/la-obediencia-espresso?_pos=2&_sid=e229d7720&_ss=r) - Tangerine, dark chocolate.
 - [Volcan Azul H1](https://thebarn.de/products/volcan-azul-h1?_pos=2&_fid=b95ef1233&_ss=c) - Papaya, grape soda.
 - [Volcan Azul](https://thebarn.de/products/volcan-azul?_pos=1&_fid=b95ef1233&_ss=c) - Dried fig, vanilla.
+- [Tarrazu](https://mueller-kaffee.com/shop/costa-rica-tarrazu/) - Fruity, nutty.
 
 ### Indonesia
 - [Sumatra Gayo](https://www.coffeereview.com/review/sumatra-gayo/) - Earthy, herbal, chocolate.
 - [Sulawesi Toraja](https://www.peets.com/products/sulawesi-kalosi) - Cedar, dark chocolate, spice.
+- [Sumatra Mandheling](https://shop.kaffeeroestereibaum.de/products/kaffee-indonesien-bio) - Fresh wood notes, licorice, anise.
+- [Kopi Luwak](https://einstein-kaffee.de/produkt/kopi-luwak/) - Spicy, sweet.
+
+### Hawaii
+- [Kona](https://wackers-kaffee.com/Kona-Hawaii/20.1) - Sweet nutty, fruity body, fine acidity.
+
+### Jamaica
+- [Blue Mountain](https://wackers-kaffee.com/Jamaica-Blue-Mountain/19.1) - Sweet pastries, slightly nutty, citrus fruits.
 
 ### Nicaragua
 - [Finca Limoncillo](https://ozonecoffee.co.uk/products/nicaragua-limoncillo-ethiosar-honey) - Limoncillo, ethiosar, honey.
@@ -161,6 +173,8 @@ Have a favorite bean, blend, or roaster? [Contribute yours!](CONTRIBUTING.md)
 ### Norway
 - [Norway Stockfleths](https://stockfleths.as/produkt/stockfleths-espresso-25kilo-bulk/) - Chocolate, Cherry, Caramel.
 
+### Tanzania
+- [Peaberry](https://kahawa1893.com/products/tanzania-peaberry) - Plum, winey, mellow.
 
 ### Blends & Multi-Origin
 - [Stumptown Hair Bender](https://www.stumptowncoffee.com/products/hair-bender) - Chocolate, cherry, toffee.
